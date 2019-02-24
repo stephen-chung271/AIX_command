@@ -1,3 +1,3 @@
-# AIX_command
-AIX command
+# Testing
+Testing
 Just readme
